@@ -8,6 +8,13 @@
     box-sizing: border-box;
 }
 
+.panels,
+.panel {
+    display: flex;
+    flex-flow: row wrap;
+    background: yellow;
+    height: 100vh;
+}
 
 .panel1 {
     background: url('https://img.freepik.com/free-photo/beautiful-sea-ocean-with-cloud-blue-sky_74190-6828.jpg?w=900&t=st=1663202743~exp=1663203343~hmac=c3253c15addc804f0fef66d2344914f039bddfb0dd5d4a6e3bae770f767ec68f');
@@ -32,4 +39,12 @@
 .panel {
     background-size: cover;
     background-position: 0 0;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+}
+
+.panel  p:first-child,
+.panel p:last-child {
+    display: none;
 }

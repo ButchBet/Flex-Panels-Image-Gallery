@@ -1,0 +1,8 @@
+.panels {
+    flex-flow: column;
+}
+
+body .panels .panel {
+    width: 100vw !important;
+    height: 20%;
+}

@@ -58,6 +58,7 @@ body {
     gap: 20px;
     justify-content: center;
     align-items: center;
+    /* transition: .1s; */
 }
 
 .panel  p:first-child,

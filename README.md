@@ -23,6 +23,7 @@ This is a solution to the [Project of the course 30 days with JS in Wes Bos](htt
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
+- Mobile first methodology
 - Flexbox
 - JS vanilla
 

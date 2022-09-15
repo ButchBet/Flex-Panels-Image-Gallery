@@ -7,3 +7,29 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+
+.panel1 {
+    background: url('https://img.freepik.com/free-photo/beautiful-sea-ocean-with-cloud-blue-sky_74190-6828.jpg?w=900&t=st=1663202743~exp=1663203343~hmac=c3253c15addc804f0fef66d2344914f039bddfb0dd5d4a6e3bae770f767ec68f');
+}
+
+.panel2 {
+    background: url('https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2021/11/una-aurora-boreal.jpg?resize=800%2C534&quality=60&strip=all&ssl=1');
+}
+
+.panel3 {
+    background: url('https://www.bergans.com/pub_images/original/4fasthiking.jpg');
+}
+
+.panel4 {
+    background: url('https://www.popsci.com/uploads/2021/02/10/LPPL2IEA5FGPDPHLFLHLPJ2PJM-1024x824.jpg');
+}
+
+.panel5 {
+    background: url('https://www.muycomputerpro.com/wp-content/uploads/2019/07/clouds.jpg');
+}
+
+.panel {
+    background-size: cover;
+    background-position: 0 0;
+}
